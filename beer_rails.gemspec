@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/PavarinE/rails-beer-css"
-  spec.metadata["changelog_uri"] = "https://github.com/PavarinE/rails-beer-css"
+  spec.metadata["source_code_uri"] = "https://github.com/PavarinE/beer_rails"
+  spec.metadata["changelog_uri"] = "https://github.com/PavarinE/beer_rails"
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
